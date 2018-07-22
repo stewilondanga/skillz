@@ -33,3 +33,8 @@ if ( now < 07 ){
   message = 'Electricity is really just organized lightning! Good Evening';
 } else if ( now < 21 ) {
   message = 'The tax collector must love poor people, he is creating so many of them. Good Evening';
+} else if ( now < 22 ) {
+  message = 'If you are going to do something tonight that you will be sorry for tomorrow morning, sleep late. Good Evening!'
+} else if ( now < 23 ) {
+  message = 'No man has a good enough memory to be a successful liar. Good night!';
+} else {
