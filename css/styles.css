@@ -464,3 +464,7 @@ input[value="8"]:checked~.container .carousel img:nth-child(8) {
   cursor: pointer;
   background-color: #E19E19;
 }
+
+&:active {
+  background-color: #946810;
+}
