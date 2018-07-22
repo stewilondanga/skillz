@@ -389,3 +389,8 @@ input[value="8"]:checked~.container .carousel img:nth-child(8) {
   font-family: Courier;
   background-color: #020739;
 }
+
+.containers {
+  width: 520px;
+  margin: 20px auto;
+}
