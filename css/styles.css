@@ -58,3 +58,7 @@
 .vertical-list li {
   float: left;
 }
+
+li {
+  list-style: disc;
+}
