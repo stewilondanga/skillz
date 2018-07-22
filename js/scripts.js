@@ -28,3 +28,8 @@ if ( now < 07 ){
 } else if ( now < 18 ) {
   message = 'I always wanted to be somebody, but now I realize I should have been more specific. Good Afternoon!';
 } else if ( now < 19 ) {
+	message = 'Every sunset brings the promise of a new dawn! Good Evening';
+} else if ( now < 20 ) {
+  message = 'Electricity is really just organized lightning! Good Evening';
+} else if ( now < 21 ) {
+  message = 'The tax collector must love poor people, he is creating so many of them. Good Evening';
