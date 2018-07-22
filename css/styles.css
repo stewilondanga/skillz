@@ -494,3 +494,8 @@ input[value="8"]:checked~.container .carousel img:nth-child(8) {
   transform: scale(1);
   transition: all 0.2s linear;
 }
+
+.cal:hover {
+  transform: scale(2.5);
+  transition: all 0.4s linear;
+}
