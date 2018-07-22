@@ -57,3 +57,8 @@ $(document).ready(function(){
 
 		if ( $("body").scrollTop() >= $("nav").height() )
 		{
+			$("nav").addClass("fixed");
+		} else {
+			$("nav").removeClass("fixed");
+		}
+	});
