@@ -25,3 +25,9 @@
 #home nav ul li {
   width: 25%;
 }
+
+#home nav a {
+  padding: 20px;
+  padding-right: 30px;
+  display: table-cell;
+}
