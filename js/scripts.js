@@ -18,3 +18,8 @@ if ( now < 07 ){
 } else if ( now < 13 ) {
   message = 'A committee is a group that keeps minutes and loses hours. Good Afternoon!';
 } else if ( now < 14 ) {
+	message = 'My one regret in life is that I am not someone else. Good Afternoon';
+} else if ( now < 15 ) {
+  message = 'Everybody talks about the weather, but nobody does anything about it. Good Afternoon';
+} else if ( now < 16 ) {
+  message = 'If I were two-faced, would I be wearing this one? Good Afternoon!';
