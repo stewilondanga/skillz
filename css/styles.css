@@ -297,3 +297,7 @@ label {
   height: 23px;
   font: .9em Courier;
 }
+
+label:hover {
+  background: #ddd;
+}
