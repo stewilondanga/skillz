@@ -1,0 +1,6 @@
+#home {
+  background-image: url("../assets/world.jpg");
+  background-repeat: no-repeat;
+  width: 100%;
+  background-size: cover;
+}
