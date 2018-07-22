@@ -196,3 +196,7 @@ h1 {
 .img_3-3 {
   background-image: url("../assets/addressbook.png");
 }
+
+.center{
+  padding-left: 90px;
+}
