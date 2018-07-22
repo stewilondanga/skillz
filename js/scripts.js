@@ -42,3 +42,8 @@ if ( now < 07 ){
 }
 
 greeting.innerHTML = message;
+$(document).ready(function(){
+
+	$("nav a").on("click", function(event){
+		event.preventDefault();
+		$("nav").addClass("fixed");
