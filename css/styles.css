@@ -480,3 +480,7 @@ input[value="8"]:checked~.container .carousel img:nth-child(8) {
   background: white;
   text-align: center;
 }
+
+.room{
+  padding-top: 55px;
+}
