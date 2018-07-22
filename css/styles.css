@@ -234,3 +234,13 @@ h1 {
   -webkit-perspective: 1000px;
   -webkit-perspective-origin: 50% -25%;
 }
+
+.carousel {
+  -webkit-transform-style: preserve-3d;
+  -webkit-transform: translateZ(-540px);
+  position: relative;
+  margin: 0;
+  width: 400px;
+  height: 500px;
+  -webkit-transition: 1s;
+}
