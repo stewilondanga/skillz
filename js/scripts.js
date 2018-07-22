@@ -52,3 +52,8 @@ $(document).ready(function(){
 
 		$("body, html").animate({scrollTop: scrollVertical});
 	});
+	$(document).on("scroll", function(){
+		secondPage = $("nav li:nth-child(2) a").attr("href");
+
+		if ( $("body").scrollTop() >= $("nav").height() )
+		{
