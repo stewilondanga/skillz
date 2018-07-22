@@ -11,3 +11,9 @@
   width: 100%;
   background-size: cover;
 }
+
+#home nav {
+  margin: 0 auto;
+  width: 700px;
+  padding-top: 110px;
+}
