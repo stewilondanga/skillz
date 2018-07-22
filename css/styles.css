@@ -348,3 +348,8 @@ input[value="1"]:checked~.container .carousel img:nth-child(1) {
   -webkit-transform: translateZ(540px) scale(1);
   opacity: 1;
 }
+
+input[value="2"]:checked~.container .carousel img:nth-child(2) {
+  -webkit-transform: rotateY(45deg) translateZ(540px) scale(1);
+  opacity: 1;
+}
