@@ -131,3 +131,12 @@ h1 {
   background-color: #BF7E3D;
   padding-top: 80px;
 }
+
+#about p {
+  line-height: 150%;
+  font-size: 20px;
+  text-align: justify;
+  color: #F98108;
+  background-color: #291900;
+  font-family: Palatino;
+}
