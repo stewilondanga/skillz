@@ -47,3 +47,8 @@ $(document).ready(function(){
 	$("nav a").on("click", function(event){
 		event.preventDefault();
 		$("nav").addClass("fixed");
+		id = ($(this).attr("href"));
+		scrollVertical = $(id).offset().top;
+
+		$("body, html").animate({scrollTop: scrollVertical});
+	});
