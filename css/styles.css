@@ -83,3 +83,16 @@ h1 .logo:hover {
   margin-left: -20px;
   color: #F98108;
 }
+
+h1 {
+  font-family: Palatino;
+  font-weight: bold;
+  font-size: 50px;
+  text-align: center;
+  color: #B5031B;
+  padding-top: 10px;
+  padding-bottom: 40px;
+  width: 500px;
+  margin: 0 auto;
+  border-bottom: 3px solid #f3f3f3;
+}
