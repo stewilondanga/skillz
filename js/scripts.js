@@ -38,3 +38,7 @@ if ( now < 07 ){
 } else if ( now < 23 ) {
   message = 'No man has a good enough memory to be a successful liar. Good night!';
 } else {
+	message = 'Preparing for tommorrow? Good night!';
+}
+
+greeting.innerHTML = message;
