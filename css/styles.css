@@ -420,3 +420,7 @@ input[value="8"]:checked~.container .carousel img:nth-child(8) {
   float: left;
   margin-left: 5px;
 }
+
+&:first-c .dd_btn {
+  background-color: #f1c40f;
+}
