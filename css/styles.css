@@ -66,3 +66,8 @@ li {
 a {
   color: white;
 }
+
+a:focus {
+  color: white;
+  text-decoration: none;
+}
