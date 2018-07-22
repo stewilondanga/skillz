@@ -335,3 +335,7 @@ input[value="5"]:checked~.container .carousel {
 input[value="6"]:checked~.container .carousel {
   -webkit-transform: translateZ(-540px) rotateY(-225deg);
 }
+
+input[value="7"]:checked~.container .carousel {
+  -webkit-transform: translateZ(-540px) rotateY(-270deg);
+}
