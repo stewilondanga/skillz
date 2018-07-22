@@ -160,3 +160,7 @@ h1 {
   /* you change this to "contain" if you don't want the images to be cropped */
   border: 5px solid grey;
 }
+
+.img_1-1 {
+  background-image: url("../assets/codepoll.png");
+}
