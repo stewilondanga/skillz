@@ -23,3 +23,8 @@ if ( now < 07 ){
   message = 'Everybody talks about the weather, but nobody does anything about it. Good Afternoon';
 } else if ( now < 16 ) {
   message = 'If I were two-faced, would I be wearing this one? Good Afternoon!';
+} else if ( now < 17 ) {
+  message = 'Why do they call it rush hour when nothing moves? Good Afternoon!';
+} else if ( now < 18 ) {
+  message = 'I always wanted to be somebody, but now I realize I should have been more specific. Good Afternoon!';
+} else if ( now < 19 ) {
