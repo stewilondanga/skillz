@@ -254,3 +254,7 @@ h1 {
   height: 500px;
   background: #ccc;
 }
+
+.carousel img:nth-child(1) {
+  -webkit-transform: translateZ(540px) scale(.8);
+}
