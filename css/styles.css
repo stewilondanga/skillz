@@ -468,3 +468,7 @@ input[value="8"]:checked~.container .carousel img:nth-child(8) {
 &:active {
   background-color: #946810;
 }
+
+&:focus {
+  outline: none;
+}
