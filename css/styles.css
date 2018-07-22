@@ -343,3 +343,8 @@ input[value="7"]:checked~.container .carousel {
 input[value="8"]:checked~.container .carousel {
   -webkit-transform: translateZ(-540px) rotateY(-315deg);
 }
+
+input[value="1"]:checked~.container .carousel img:nth-child(1) {
+  -webkit-transform: translateZ(540px) scale(1);
+  opacity: 1;
+}
