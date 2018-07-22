@@ -315,3 +315,7 @@ input:checked+label {
 input[value="1"]:checked~.container .carousel {
   -webkit-transform: translateZ(-540px);
 }
+
+input[value="2"]:checked~.container .carousel {
+  -webkit-transform: translateZ(-540px) rotateY(-45deg);
+}
