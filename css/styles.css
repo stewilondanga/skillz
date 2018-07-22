@@ -472,3 +472,11 @@ input[value="8"]:checked~.container .carousel img:nth-child(8) {
 &:focus {
   outline: none;
 }
+
+.dd {
+  position: absolute;
+  width: 255px;
+  margin-top: 55px;
+  background: white;
+  text-align: center;
+}
