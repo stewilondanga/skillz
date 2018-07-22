@@ -363,3 +363,13 @@ input[value="4"]:checked~.container .carousel img:nth-child(4) {
   -webkit-transform: rotateY(135deg) translateZ(540px) scale(1);
   opacity: 1;
 }
+
+input[value="5"]:checked~.container .carousel img:nth-child(5) {
+  -webkit-transform: rotateY(180deg) translateZ(540px) scale(1);
+  opacity: 1;
+}
+
+input[value="6"]:checked~.container .carousel img:nth-child(6) {
+  -webkit-transform: rotateY(225deg) translateZ(540px) scale(1);
+  opacity: 1;
+}
