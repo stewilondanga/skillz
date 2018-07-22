@@ -208,3 +208,9 @@ h1 {
   width: 100%;
   background-size: cover;
 }
+
+#portfolio .row {
+  margin: 0px;
+  box-sizing: border-box;
+  padding: 0 60px;
+}
