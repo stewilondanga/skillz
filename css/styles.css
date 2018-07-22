@@ -71,3 +71,7 @@ a:focus {
   color: white;
   text-decoration: none;
 }
+
+a:hover {
+  color: #F9083B;
+}
