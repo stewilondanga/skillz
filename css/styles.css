@@ -408,3 +408,8 @@ input[value="8"]:checked~.container .carousel img:nth-child(8) {
 &:hover {
   background: #ecf0f1;
 }
+
+&:active {
+  background-color: #bdc3c7;
+  color: #fff;
+}
