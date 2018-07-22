@@ -514,3 +514,7 @@ input[value="8"]:checked~.container .carousel img:nth-child(8) {
 .cal th:first-child {
   color: #f00;
 }
+
+.cal th:last-child {
+  color: #04d;
+}
