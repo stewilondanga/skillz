@@ -214,3 +214,7 @@ h1 {
   box-sizing: border-box;
   padding: 0 60px;
 }
+
+#portfolio img {
+  width: 100%;
+}
