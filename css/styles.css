@@ -383,3 +383,9 @@ input[value="8"]:checked~.container .carousel img:nth-child(8) {
   -webkit-transform: rotateY(315deg) translateZ(540px) scale(1);
   opacity: 1;
 }
+
+#contact:hover {
+  color: #EC532A;
+  font-family: Courier;
+  background-color: #020739;
+}
