@@ -75,3 +75,11 @@ a:focus {
 a:hover {
   color: #F9083B;
 }
+
+h1 .logo:hover {
+  font-size: 50px;
+  font-family: Bookman;
+  width: 200px;
+  margin-left: -20px;
+  color: #F98108;
+}
