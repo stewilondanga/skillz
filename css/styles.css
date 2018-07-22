@@ -4,3 +4,10 @@
   width: 100%;
   background-size: cover;
 }
+
+#home:hover {
+  background-image: url("../assets/world.gif");
+  background-repeat: no-repeat;
+  width: 100%;
+  background-size: cover;
+}
