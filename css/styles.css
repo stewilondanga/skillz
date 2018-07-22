@@ -358,3 +358,8 @@ input[value="3"]:checked~.container .carousel img:nth-child(3) {
   -webkit-transform: rotateY(90deg) translateZ(540px) scale(1);
   opacity: 1;
 }
+
+input[value="4"]:checked~.container .carousel img:nth-child(4) {
+  -webkit-transform: rotateY(135deg) translateZ(540px) scale(1);
+  opacity: 1;
+}
