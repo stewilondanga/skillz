@@ -301,3 +301,8 @@ label {
 label:hover {
   background: #ddd;
 }
+
+input {
+  position: absolute;
+  left: -9999px;
+}
