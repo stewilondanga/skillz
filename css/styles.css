@@ -484,3 +484,13 @@ input[value="8"]:checked~.container .carousel img:nth-child(8) {
 .room{
   padding-top: 55px;
 }
+
+.cal {
+  display: inline-block;
+  background: #ffe;
+  color: #555;
+  font-size: 6px;
+  text-align: center;
+  transform: scale(1);
+  transition: all 0.2s linear;
+}
