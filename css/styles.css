@@ -140,3 +140,8 @@ h1 {
   background-color: #291900;
   font-family: Palatino;
 }
+
+.contain {
+  background-color: #291900;
+  padding-top: 40px;
+}
