@@ -282,3 +282,7 @@ h1 {
 .carousel img:nth-child(7) {
   -webkit-transform: rotateY(270deg) translateZ(540px) scale(.8);
 }
+
+.carousel img:nth-child(8) {
+  -webkit-transform: rotateY(315deg) translateZ(540px) scale(.8);
+}
