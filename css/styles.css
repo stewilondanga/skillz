@@ -413,3 +413,10 @@ input[value="8"]:checked~.container .carousel img:nth-child(8) {
   background-color: #bdc3c7;
   color: #fff;
 }
+
+.menu_btn {
+  font-family: Courier;
+  width: 125px;
+  float: left;
+  margin-left: 5px;
+}
