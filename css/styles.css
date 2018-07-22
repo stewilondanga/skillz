@@ -96,3 +96,10 @@ h1 {
   margin: 0 auto;
   border-bottom: 3px solid #f3f3f3;
 }
+
+#greeting {
+  color: #00FFCC;
+  background-color: #000000;
+  font-family: Bookman;
+  font-size: 35px;
+}
