@@ -436,3 +436,7 @@ input[value="8"]:checked~.container .carousel img:nth-child(8) {
 &:active {
   background-color: #27ae60;
 }
+
+&:nth-child(3) .dd_btn {
+  background-color: #3498db;
+}
