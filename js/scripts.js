@@ -62,3 +62,8 @@ $(document).ready(function(){
 			$("nav").removeClass("fixed");
 		}
 	});
+
+	});
+
+	var navigate = (function() {
+		$('.dd').toggle();
