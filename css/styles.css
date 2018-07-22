@@ -21,3 +21,7 @@
 #home nav ul {
   overflow: hidden;
 }
+
+#home nav ul li {
+  width: 25%;
+}
