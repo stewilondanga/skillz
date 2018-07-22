@@ -394,3 +394,13 @@ input[value="8"]:checked~.container .carousel img:nth-child(8) {
   width: 520px;
   margin: 20px auto;
 }
+
+.containers a {
+  width: 100%;
+  display: block;
+  height: 100%;
+  padding: 15px 0 15px 0;
+  text-decoration: none;
+  color: #666;
+  background: #f9f9f9;
+}
