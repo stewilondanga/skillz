@@ -452,3 +452,15 @@ input[value="8"]:checked~.container .carousel img:nth-child(8) {
 &:active {
   background-color: #c0392b;
 }
+
+.dd_btn {
+  height: 50px;
+  width: 125px;
+  color: #fff;
+  font-size: 18px;
+  border: 0px;
+  z-index: 3;
+  float: left;
+  cursor: pointer;
+  background-color: #E19E19;
+}
